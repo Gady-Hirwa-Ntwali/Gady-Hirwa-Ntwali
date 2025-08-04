@@ -1,4 +1,4 @@
-# 👋 Hi, I'm GAdy  Hirwa Ntwali!
+# 👋 Hi, I'm Gady  Hirwa Ntwali!
 
 ## 🚀 About Me
 I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
