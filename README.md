@@ -1,13 +1,14 @@
 # 👋 Hi, I'm Gady  Hirwa Ntwali!
 
 ## 🚀 About Me
-I'm a junior developer with a passion for building web applications using React. I'm constantly learning and exploring new front-end technologies to enhance my skills and contribute to exciting projects.
+Testing and Quality Assurance specialist with a background in software development and full-stack expertise. Skilled in ensuring performance, reliability, and compliance while delivering innovative, user-friendly solutions across the software lifecycle.
 
-## 🛠️ Technologies & Tools
-- **Frontend:** React, JavaScript, HTML, CSS
-- **Tools:** Git, GitHub, VS Code, npm, Webpack
+## Software testing tools
+-Selenium
+-Cucumber
+-SpecFlow
 
-## 🌱 Currently Learning
-- Advanced React concepts
-- State management with Redux
-- Backend basics with Node.js and Express
+## 🛠️ Software development
+- **Frontend:** React, JavaScript, HTML, CSS, java, react, tailwind, figma design
+- **Back-end:** Node.js, Express.js, supabase, postgreSQL
+- **Tools:** Git, GitHub, VS Code, npm, eclipse, intellig idea
