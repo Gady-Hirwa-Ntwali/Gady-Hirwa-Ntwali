@@ -1,12 +1,14 @@
 # Hi, I'm Gady  Hirwa Ntwali!
 
 ## About Me
-Testing and Quality Assurance specialist with a background in software development and full-stack expertise. Skilled in ensuring performance, reliability, and compliance while delivering innovative, user-friendly solutions across the software lifecycle.
+QA Engineer and Quality Assurance specialist with a background in software development and full-stack expertise. Skilled in ensuring performance, reliability, and compliance while delivering innovative, user-friendly solutions across the software lifecycle.
 
 ## Software testing tools
 **Selenium**,
 **Cucumber**,
-**SpecFlow**
+**SpecFlow**,
+**Playwright**,
+**Rest Assured**
 
 ## Software development
 - **Frontend:** React, JavaScript, HTML, CSS, java, react, tailwind, figma design
